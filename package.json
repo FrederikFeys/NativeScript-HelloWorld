@@ -1,6 +1,6 @@
 {
   "nativescript": {
-    "id": "org.nativescript.HellowWorld",
+    "id": "be.vives.mobile.HelloWorld",
     "tns-android": {
       "version": "6.1.0"
     },
